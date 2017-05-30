@@ -87,7 +87,7 @@ input[type=text], input[type=password] {
 }
 ```
 
-To change the login and submit button
+To change the login and register button
 ```
 /*button*/
 input[type=submit] {
