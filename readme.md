@@ -5,8 +5,8 @@
 ## Usage 
 Git clone this repo in the Themes directory of your keycloak instance to use this theme
 
-To select the theme login to your keycloak admin console. Go to Realms and themes and select
-from dropdown
+To select the theme you need to login to your keycloak admin console. Go to Realms and themes and select
+from dropdown.
 
 [![keycloak themes 2017-05-30 12-08-02.png](https://s30.postimg.org/oju4b8f81/keycloak_themes_2017-05-30_12-08-02.png)](https://postimg.org/image/ukrt8b1u5/)
 
