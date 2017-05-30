@@ -33,7 +33,7 @@ located here
 
 Make the following changes to standalone.
 
-[source,$xml]
+[source,xml]
 ----
 <theme>
     <staticMaxAge>-1</staticMaxAge>
