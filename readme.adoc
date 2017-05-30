@@ -127,3 +127,5 @@ input[type=submit] {
     width: 98%;
 }
 ----
+
+More information see Keycloak Themes documentation https://keycloak.gitbooks.io/documentation/server_development/topics/themes.html[here]
