@@ -71,6 +71,7 @@ div#info-area p {
     margin-right: 30px;
     display: inline;
     text-shadow: none;
+    font-size: 20px;
 }
 /*fields*/
 input[type=text], input[type=password] {
