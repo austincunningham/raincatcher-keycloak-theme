@@ -13,7 +13,7 @@ from dropdown
 
 ## Configure your own Theme
 It is recommend that you make a copy of an existing theme and edit it. In order
-to be able to edit the theme with out restarting the keycloak server you need to 
+to be able to edit the theme without restarting the keycloak server you need to 
 edit the standalone.xml file on your keycloak server to disable caching. 
 
 located here 
