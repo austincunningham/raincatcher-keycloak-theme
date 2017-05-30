@@ -1,6 +1,6 @@
 # Theme for Raincatcher for Keycloak
 
-#Usage 
+## Usage 
 Git clone this repo in the Themes directory of your keycloak instance to use this theme
 
 To select the theme login to your keycloak admin console. Go to Realms and themes and select
@@ -9,7 +9,7 @@ from dropdown
 [![keycloak themes 2017-05-30 12-08-02.png](https://s30.postimg.org/oju4b8f81/keycloak_themes_2017-05-30_12-08-02.png)](https://postimg.org/image/ukrt8b1u5/)
 
 
-#Configure your own Theme
+## Configure your own Theme
 It is recommend that you make a copy of an existing theme and edit it. In order
 to be able to edit the theme with out restarting the keycloak server you need to 
 edit the standalone.xml file on your keycloak server to disable caching. 
@@ -22,15 +22,10 @@ Make the following changes to standalone.
 
 ```$xml
 <theme>
-
     <staticMaxAge>-1</staticMaxAge>
-
     <cacheThemes>false</cacheThemes>
-
     <cacheTemplates>false</cacheTemplates>
-
     ...
-
 </theme>
 ````
 To change the title for your login and register user screen you can edit the CSS located at 
