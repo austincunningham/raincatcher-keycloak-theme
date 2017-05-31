@@ -27,6 +27,7 @@ div#kc-header::after {
 div#kc-info {
 }
 
+/*title banner size and colour*/
 div#kc-container-wrapper {
     width:100%;
     background-color: rgb(40,53,147);
@@ -35,6 +36,7 @@ div#kc-container-wrapper {
     padding-right: 2em;
     padding-left: 3em;
 }
+
 div#kc-content {
     position: absolute;
     top: 20%;
@@ -144,6 +146,7 @@ div.feedback-error {
 div#kc-header-wrapper {
     display: none;
 }
+
 div#kc-registration {
     color: rgba(255, 255, 255, 0.7) !important;
     font-size: 1.8em;
