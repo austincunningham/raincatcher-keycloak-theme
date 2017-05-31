@@ -47,7 +47,7 @@ To change the title for your login and register user screen you can edit the CSS
 located at
 
 ....
-./raincatcher/login/resources/css/styles.css
+./raincatcher-keycloak-theme/login/resources/css/styles.css
 ....
 
 Make changes here to change the title
