@@ -61,6 +61,16 @@ div#kc-header::after {
     line-height: 20px;
     margin-bottom: 15px;
 }
+
+/*title banner size and colour*/
+div#kc-container-wrapper {
+    width:100%;
+    background-color: rgb(40,53,147);
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
+    padding-right: 2em;
+    padding-left: 3em;
+}
 ----
 
 To change your background colour or set a background image
