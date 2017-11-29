@@ -138,4 +138,4 @@ input[type=submit] {
 }
 ----
 
-More information see Keycloak Themes documentation https://keycloak.gitbooks.io/documentation/server_development/topics/themes.html[here]
+More information see Keycloak Themes documentation http://www.keycloak.org/docs/latest/server_development/index.html#_themes[here]
