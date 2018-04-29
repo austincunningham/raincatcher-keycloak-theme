@@ -1,10 +1,9 @@
 [[theme-for-raincatcher-for-keycloak]]
 = Theme for Raincatcher for Keycloak
 
-https://postimg.org/image/6z3kxuybj/[image:https://s11.postimg.org/kg0jgq8n7/raincatcher_theme_2017-05-30_12-19-54.png[raincatcher
-theme 2017-05-30 12-19-54.png]]
-https://postimg.org/image/5xey2irtj/[image:https://s23.postimg.org/ic1q2ujbv/raincatcher_submit2017-05-30_12-20-57.png[raincatcher
-submit2017-05-30 12-20-57.png]]
+image:https://cdn-images-1.medium.com/max/800/0*lMzC1bK4bQulI6GB.[raincatcher
+theme]
+
 
 [[usage]]
 == Usage
@@ -15,8 +14,8 @@ this theme
 To select the theme you need to login to your keycloak admin console. Go to
 Realms and themes and select from dropdown.
 
-https://postimg.org/image/ukrt8b1u5/[image:https://s30.postimg.org/oju4b8f81/keycloak_themes_2017-05-30_12-08-02.png[keycloak
-themes 2017-05-30 12-08-02.png]]
+image:https://cdn-images-1.medium.com/max/1000/0*49oKObDvfQyfw5WH.[keycloak
+themes 2017-05-30 12-08-02.png]
 
 [[configure-your-own-theme]]
 == Configure your own Theme
