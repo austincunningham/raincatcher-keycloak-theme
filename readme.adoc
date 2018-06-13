@@ -57,12 +57,12 @@ Make changes here to change the title
 div#kc-header::after {
     content: 'FeedHenry Work Force Management';
     font-size: 40px;
-    line-height: 20px;
+    line-height: 50px;
     margin-bottom: 15px;
 }
 
 /*title banner size and colour*/
-div#kc-container-wrapper {
+div#kc-header {
     width:100%;
     background-color: rgb(40,53,147);
     padding-top: 2.5em;
@@ -79,6 +79,8 @@ To change your background colour or set a background image
 body {
     background-color: rgb(63,81,181);
     /*background-image: url('../img/bkgrnd.jpg');*/
+    background-position: center center;
+    background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
 
