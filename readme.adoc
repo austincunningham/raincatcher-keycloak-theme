@@ -141,8 +141,8 @@ input[type=submit] {
 
 More information see Keycloak Themes documentation http://www.keycloak.org/docs/latest/server_development/index.html#_themes[here]
 
-[[Docker Demo Image]]
-= Docker Demo Image
+[[docker-demo-image]]
+== Docker Demo Image
 
 Pull my image here 
 [source,bash]
